@@ -1,5 +1,5 @@
 /*
- * Vibrating Alerts
+ * Vibrating Notices
  *
  * For more information, visit the project's homepage (http://prashant.es/labs/vibrating-notices/)
  *
