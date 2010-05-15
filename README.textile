@@ -1,0 +1,25 @@
+h1. Vibrating Notices
+
+A jQuery plugin that emulates the vibrating or nodding effect seen on a Mac's login screen.
+
+Licensed under the "MIT license":http://www.opensource.org/licenses/mit-license.php
+
+h2. Demo
+
+A full working demo is available on the "project's homepage":http://prashant.es/labs/vibrating-notices/
+
+h2. Documentation & Usage
+
+This plugin requires jQuery 1.4.
+
+Syntax:
+
+$('_element_').vibrate(_axis_, _distance_, _repetition_, _duration_);
+
+h3. Parameters
+
+* Element: id or class of the element that will be animated.
+* Axis: axis of movement (Either x or y).
+* Distance: distance (in pixels) of movement.
+* Repetition: number of times a movement/vibration occurs.
+* Duration: duration (in ms) of a movement.
